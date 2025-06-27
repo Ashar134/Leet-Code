@@ -9,7 +9,7 @@ class Solution(object):
         merged_arr = sorted(nums1 + nums2)
         length = len(merged_arr)
 
-        halfed = length // 2
+        halfed = length / 2
         
         if (length % 2 == 0):
 
