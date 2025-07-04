@@ -9,9 +9,9 @@ For example, do not use pow(x, 0.5) in c++ or x ** 0.5 in python.
 
 ## Example 1:
 
-Input: x = 4
+Input: x = 4 <br>
 Output: 2
-Explanation: The square root of 4 is 2, so we return 2.
+Explanation: The square root of 4 is 2, so we return 2.<br>
 
 ## Example 2:
 
